@@ -1,0 +1,2 @@
+# WP-Composer
+Wordpress Composer
